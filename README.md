@@ -3,7 +3,7 @@ A Power BI template to connect to your Azure DevOps data, allowing you to see th
 
 ### Prerequisites
 * [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
-* Download the .pbit file
+* Download the .pbit file based on your process template (inherited processes also work)
 * Then you're good to get started!
 
 ### Connectivity
@@ -14,10 +14,5 @@ A Power BI template to connect to your Azure DevOps data, allowing you to see th
 * Voila - your report is created!
 
 ### Screenshots
-![alt text](https://raw.githubusercontent.com/nbrown02/Test-Status-Report/master/Screenshots/Picture1.png)
+![alt text](https://github.com/nbrown02/Story-Point-Correlation/blob/main/Screenshot.png?raw=true)
 
-![alt text](https://raw.githubusercontent.com/nbrown02/Test-Status-Report/master/Screenshots/Picture2.png)
-
-![alt text](https://raw.githubusercontent.com/nbrown02/Test-Status-Report/master/Screenshots/Picture3.png)
-
-![alt text](https://raw.githubusercontent.com/nbrown02/Test-Status-Report/master/Screenshots/Picture4.png)
