@@ -16,6 +16,24 @@ Most teams believe Story Points are something you MUST do as part of any Agile f
 
 Don't confuse the team name with the project name, a common mistake. If the URL you use is "http://dev.azure.com/Microsoft-UK/AzureDevOpsTeam/Database", then Microsoft-UK is the Organization Name, AzureDevOpsTeam is the Project name, Database is the team name.
 
+* It should then look something like this:
+
+Azure DevOps Services:
+![alt text](https://raw.githubusercontent.com/nbrown02/Story-Point-Correlation/main/AzDO%20Login.png)
+
+
+Azure DevOps Server:
+![alt text](https://raw.githubusercontent.com/nbrown02/Story-Point-Correlation/main/AzDO%20Server%20Login.png)
+
+* Hit 'Load' 
+* If you are prompted for a login, you can choose:
+  - 'Organizational' and enter your Organization email/password (if required) and sign in
+  - 'Basic' and use a Personal Access Token (PAT) to login, entering it in the password field (user can be left as blank)
+
+  ![alt text](https://docs.microsoft.com/en-us/azure/devops/report/powerbi/media/authentication-7.png?view=azure-devops)
+
+* Once signed in hit 'Load' and wait for your charts to populate!
+
 ### Screenshots
 ![alt text](https://github.com/nbrown02/Story-Point-Correlation/blob/main/Screenshot.png?raw=true)
 
