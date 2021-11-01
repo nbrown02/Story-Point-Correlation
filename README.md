@@ -3,15 +3,18 @@ Most teams believe Story Points are something you MUST do as part of any Agile f
 
 ### Prerequisites
 * [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
-* Download the .pbit file based on your process template (inherited processes also work)
+* Download the appropriate template file:
+  - [Scrum process template (including inherited)](https://github.com/nbrown02/Story-Point-Correlation/raw/main/StoryPointsCorrelation%20-%20Scrum.pbit) 
+  - [Agile process template (including inherited)](https://github.com/nbrown02/Story-Point-Correlation/raw/main/StoryPointsCorrelation%20-%20Agile.pbit) 
 * Then you're good to get started!
 
 ### Connectivity
 * Open the .pbit file
-* Add your Organization and Project Name - this will be in your Azure DevOps URL https://dev.azure.com/{OrganizationName}/{ProjectName}/ 
-* Choose either Effort or StoryPoints depending on your process template (Hint: Scrum template = Effort. Agile template = StoryPoints).
-* Hit load (note: you may get prompted for a login here, choose organisational account and enter your Azure DevOps email)
-* Voila - your report is created!
+* Select http/https (only choose http if your Azure DevOps Server is HTTP)
+* Add the Analytics / Azure DevOps Server URL - for Azure DevOps services enter 'analytics.dev.azure.com' / for Azure DevOps Server enter your server details
+* Add your organization and project name
+
+Don't confuse the team name with the project name, a common mistake. If the URL you use is "http://dev.azure.com/Microsoft-UK/AzureDevOpsTeam/Database", then Microsoft-UK is the Organization Name, AzureDevOpsTeam is the Project name, Database is the team name.
 
 ### Screenshots
 ![alt text](https://github.com/nbrown02/Story-Point-Correlation/blob/main/Screenshot.png?raw=true)
