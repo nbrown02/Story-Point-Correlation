@@ -1,5 +1,5 @@
 # Story Point Correlation
-Most teams believe Story Points are something you MUST do as part of any Agile framework. This is a Power BI template to challenge this notion, allowing you the ability to connect to your Azure DevOps data and see the correlation (or not!) of story points.
+Most teams believe Story Points are something you MUST do as part of any Agile framework. This is a Power BI template to challenge this notion, allowing you the ability to connect to your Azure DevOps, Azure DevOps Server and/or TFS data and see the correlation (or not!) of story points.
 
 ### Prerequisites
 * [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
