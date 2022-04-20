@@ -35,7 +35,7 @@ Azure DevOps Server:
 * Once signed in hit 'Load' and wait for your charts to populate!
 
 ### Screenshots
-![alt text](https://github.com/nbrown02/Story-Point-Correlation/blob/main/Screenshot.png?raw=true)
+![alt text](https://github.com/nbrown02/Story-Point-Correlation/blob/main/Screenshots/Screenshot.png?raw=true)
 
 Example of looking at multiple teams data and story point correlation with the best result seen (note: not comparing teams to each other!)
 
