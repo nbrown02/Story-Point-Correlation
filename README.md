@@ -37,7 +37,7 @@ Azure DevOps Server:
 ### Screenshots
 ![alt text](https://github.com/nbrown02/Story-Point-Correlation/blob/main/Screenshots/Screenshot.png?raw=true)
 
-![alt text](https://github.com/nbrown02/Story-Point-Correlation/blob/main/Screenshots/Screenshot2.png?raw=true)
+![alt text](https://github.com/nbrown02/Story-Point-Correlation/blob/main/Screenshots/Screenshot2.gif?raw=true)
 
 Example of looking at multiple teams data and story point correlation with the best result seen (note: not comparing teams to each other!)
 
