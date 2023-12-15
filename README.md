@@ -9,7 +9,7 @@ Most teams believe Story Points are something you MUST do as part of any Agile f
   - [Jira](www.google.com)
 * For the Jira version:
   - [Follow these steps](https://support.atlassian.com/atlassian-account/docs/manage-api-tokens-for-your-atlassian-account/) to setup a Jira API token and note it down (e.g. copy/paste into Notepad)
-  - You will need to know the 'customfield_xxxxx' value for story points, you can get this by going to https://'your-jira-instance'.atlassian.net/rest/api/3/field (replace your-jira-instance with what it actually is) and then identifying the field that represents Story Points. Look for the field with a name similar to "Story Points" or "Story Point," and note its ID. It will be something like 'customfield_10000' 
+  - You will need to know the 'customfield_xxxxx' value for story points, you can get this by going to https://'your-jira-instance'.atlassian.net/rest/api/3/field (replace 'your-jira-instance' with what it actually is) and then identifying the field that represents Story Points. Look for the field with a name similar to "Story Points" or "Story Point," and note its ID. It will be something like 'customfield_10000' 
 
 * Then you're good to get started!
 
@@ -25,7 +25,6 @@ Don't confuse the team name with the project name, a common mistake. If the URL 
 
 Azure DevOps Services:
 ![alt text](https://raw.githubusercontent.com/nbrown02/Story-Point-Correlation/main/Screenshots/AzDO%20Login.png)
-
 
 Azure DevOps Server:
 ![alt text](https://raw.githubusercontent.com/nbrown02/Story-Point-Correlation/main/Screenshots/AzDO%20Server%20Login.png)
