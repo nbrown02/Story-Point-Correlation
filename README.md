@@ -3,13 +3,14 @@ Most teams believe Story Points are something you MUST do as part of any Agile f
 
 ### Prerequisites
 * [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
-* For the Jira version:
-  - [Follow these steps](https://support.atlassian.com/atlassian-account/docs/manage-api-tokens-for-your-atlassian-account/) to setup a Jira API token and note it down (e.g. copy/paste into Notepad)
-  - You will need to know the 'customfield_xxxxx' value for story points, you can get this by going to https:// your-jira-instance .atlassian.net/rest/api/3/field (replace your-jira-instance with what it actually is) and then identifying the field that represents Story Points. Look for the field with a name similar to "Story Points" or "Story Point," and note its ID. It will be something like 'customfield_10000' 
 * Download the appropriate template file:
   - [ADO - Scrum process template (including inherited)](https://github.com/nbrown02/Story-Point-Correlation/raw/main/StoryPointsCorrelation%20-%20Scrum.pbit) 
   - [ADO - Agile process template (including inherited)](https://github.com/nbrown02/Story-Point-Correlation/raw/main/StoryPointsCorrelation%20-%20Agile.pbit)
   - [Jira](www.google.com)
+* For the Jira version:
+  - [Follow these steps](https://support.atlassian.com/atlassian-account/docs/manage-api-tokens-for-your-atlassian-account/) to setup a Jira API token and note it down (e.g. copy/paste into Notepad)
+  - You will need to know the 'customfield_xxxxx' value for story points, you can get this by going to https://'your-jira-instance'.atlassian.net/rest/api/3/field (replace your-jira-instance with what it actually is) and then identifying the field that represents Story Points. Look for the field with a name similar to "Story Points" or "Story Point," and note its ID. It will be something like 'customfield_10000' 
+
 * Then you're good to get started!
 
 ### Connectivity for Azure DevOps
