@@ -48,10 +48,6 @@ Azure DevOps Server:
   
 ![image](https://github.com/nbrown02/Story-Point-Correlation/assets/29369962/0e9d20c3-ac96-4a8c-905b-4e993694e410)
 
-* For multiple projects, it should look like:
-  
-![image](https://github.com/nbrown02/Story-Point-Correlation/assets/29369962/d0b31299-dec9-4b1c-8703-2a778bc1fba1)
-
 * Hit 'Load' 
 * You will be prompted for a login, choose Basic and enter:
   - Your email associated with your Jira account for your username
