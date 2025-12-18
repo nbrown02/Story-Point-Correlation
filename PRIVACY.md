@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Estimate Accuracy (Story Point Correlation) template for Jira/ADO is provided **free of charge** as an open-source resource to help teams visualize the correlation of their story point estimates and cycle time. This template is a **static configuration file** and does **not** interact with user data, Jira instances, or external systems.
+The Estimate Accuracy (Story Point Correlation) template for Jira/ADO is provided **free of charge** as an open-source resource to help teams visualize the correlation of their story point estimates and cycle time. This template is a **static configuration file** and does **not** interact with user data, Jira/ADO instances, or external systems.
 
 ## Data Collection and Usage
 
