@@ -6,6 +6,7 @@ Most teams believe Story Points are something you MUST do as part of any Agile f
 * Download the appropriate template file:
   - [Jira](https://github.com/nbrown02/Story-Point-Correlation/raw/main/StoryPointsCorrelation%20-%20Jira.pbit)
   - [Azure DevOps](https://github.com/nbrown02/Story-Point-Correlation/raw/refs/heads/main/StoryPointsCorrelation%20-%20ADO.pbit)
+* If you are a Mac user (or a user unable to install Power BI desktop) you can use the web-based template app [for Jira here](https://marketplace.microsoft.com/en-us/product/power-bi/thrivvepartners1747925071876.spc_jira?tab=Overview) or [for ADO here](https://marketplace.microsoft.com/en-us/product/power-bi/thrivvepartners1747925071876.fmc_ado?tab=Overview)
     
 * For the Jira version:
   - [Follow these steps](https://support.atlassian.com/atlassian-account/docs/manage-api-tokens-for-your-atlassian-account/) to setup a Jira API token and note it down (e.g. copy/paste into Notepad)
